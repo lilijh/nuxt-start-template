@@ -10,7 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "@nuxt/ui": "3.0.0-alpha.6",
+    "@nuxt/ui": "3.0.0-alpha.7",
     "nuxt": "^3.13.2",
     "@vueuse/nuxt": "^11.1.0"
   },
